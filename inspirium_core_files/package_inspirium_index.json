@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "1.0",
           "category": "Contributed",
-          "url": "https://github.com/astetyn/StorageAndExamples/blob/master/inspirium_core_files/InspiriumCore.zip",
+          "url": "https://github.com/astetyn/StorageAndExamples/raw/master/inspirium_core_files/InspiriumCore.zip",
           "archiveFileName": "InspiriumCore.zip",
           "checksum": "SHA-256:ef8f0dd28ee0f37f4d0801d73210733981add556614dd633382ec4675ca090b9",
           "size": "15327639",

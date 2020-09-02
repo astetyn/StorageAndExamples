@@ -11,12 +11,12 @@
         {
           "name": "InspiriumCore Boards",
           "architecture": "samd",
-          "version": "1.0",
+          "version": "1.0.1",
           "category": "Contributed",
           "url": "https://github.com/astetyn/StorageAndExamples/raw/master/inspirium_core_files/InspiriumCore.zip",
           "archiveFileName": "InspiriumCore.zip",
-          "checksum": "SHA-256:7c4f80a036fa70bd4a66b7eaf9a98f494d034947047c2ac8bb2db9b9f1fc3298",
-          "size": "15336319",
+          "checksum": "SHA-256:fd9863f3183ceb06d8c70d93680a71cb70d3175eb1227d3666360b9a7a375d55",
+          "size": "15390876",
           "boards": [
             {
               "name": "Inspirium"
